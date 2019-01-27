@@ -29,7 +29,7 @@ teams are just called "organizers." But there were ideas and most of them sucked
 1. designer - but MnD has designers and design is not all that makes great applications.
 1. organizer - but you're special.
 
-Therefore, we suck to **architect**. This is to emphasize that you do not only create or build or
+Therefore, we stuck to **architect**. This is to emphasize that you do not only create or build or
 code your application. You architect it - you chose a lot of the structure and look and feel of the
 application you're making. You chose the libraries and all the small decisions that power it.
 Hence, you chose the architecture. You're also not just a designer - the considerations are not
